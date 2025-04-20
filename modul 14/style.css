@@ -1,0 +1,15 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+p {
+  color: green;
+  font-size: 16px;
+}
+
+rna body {
+  background-color: lightgray; /*backgouncd jadi lightgray*/
+}
+h1 {
+  color: blue; /*warna tulisan jadi biru*/
+}
